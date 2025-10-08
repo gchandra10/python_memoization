@@ -3,3 +3,5 @@ poetry.lock
 dist/
 .DS_Store
 tests/
+.venv/
+uv.lock

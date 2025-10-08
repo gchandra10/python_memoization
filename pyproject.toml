@@ -1,14 +1,7 @@
-[tool.poetry]
-name = "memoization"
+[project]
+name = "python-memoization"
 version = "0.1.0"
-description = ""
-authors = ["Ganesh Chandrasekaran <gchandra@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.11"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = []
